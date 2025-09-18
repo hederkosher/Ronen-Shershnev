@@ -1,14 +1,14 @@
 # 👨‍💻 Ronen Shershnev
 
-**`Software Engineer | AI Enthusiast | Problem Solver`**
+**`Software Engineer | AI & ML | Problem Solver`**
 
-I'm a 4th-year Software Engineering student at Afeka College of Engineering, majoring in **Artificial Intelligence**. I have hands-on experience in **machine learning model development**, **algorithm implementation**, and building practical solutions with AI. My journey combines strong technical foundations with leadership skills from my military service, where I led teams and managed mission-critical systems.  
+I’m a 4th-year Software Engineering student at Afeka College of Engineering, specializing in **Artificial Intelligence**. I build practical, data-driven solutions with experience in **machine learning**, **deep learning (PyTorch)**, and **algorithmic problem solving**. My background includes leadership in the military where I led teams and operated mission-critical systems.
 
-I’m passionate about using **AI to solve real-world problems** and continuously expanding my knowledge in Python, deep learning, and system design.  
+I’m driven by using **AI to solve real-world problems** and I love shipping end-to-end solutions: from data to deployment.
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ronen-shershnev-079b88382/">
@@ -21,7 +21,7 @@ I’m passionate about using **AI to solve real-world problems** and continuousl
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Skills
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -29,26 +29,26 @@ I’m passionate about using **AI to solve real-world problems** and continuousl
 <img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="REST API" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 <br/>
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects
 
 - **The Next Step (Final Project, 2025)**  
-  AI-powered **career guidance platform** with adaptive assessment, personalized role matching, step-by-step roadmap, and progress tracking.
+  AI-powered career guidance platform with adaptive assessments, personalized role matching, action roadmap, and progress tracking. Built with Python, PyTorch, FastAPI, and SQL.
 
 - **Machine Learning Implementations**  
-  Built models and algorithms in Python & PyTorch for data-driven problem solving.
+  A collection of classic and modern ML algorithms implemented from scratch and with PyTorch: training loops, evaluation metrics, and experiment tracking.
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education
 
-![Ronen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox)
+- B.Sc. Software Engineering, Afeka College of Engineering — Specialization: Artificial Intelligence
 
 ---
 
